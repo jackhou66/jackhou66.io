@@ -1,7 +1,7 @@
 ---
 title: Text and Typography
 author: cotes
-date: 2024-02-08 11:33:00 +0800
+date: 2019-08-08 11:33:00 +0800
 categories: [Gigital Twins, Demo]
 tags: [typography]
 pin: true
